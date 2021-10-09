@@ -9,3 +9,6 @@ https://github.com/w1that/store-api-app
 
 ## Take a Note:
 https://github.com/w1that/takeanote
+
+## Responsive design experience by using react-responsive:
+https://github.com/w1that/react-responsive-detailed-usage
