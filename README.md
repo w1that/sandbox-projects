@@ -31,3 +31,10 @@ https://github.com/w1that/netflix-clone-react-tailwind
 
 ## Nextjs fundementals
 https://github.com/w1that/nextjs-fundamental-structure
+
+## React English Dictionary
+https://github.com/w1that/dictionariekt
+
+## React Native First Glance (E-Commerce Application)
+https://github.com/w1that/react-native-first-glance
+
